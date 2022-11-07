@@ -28,8 +28,10 @@ Algumas dessas rotinas que podem ser automatizadas são:
 
 
 Segue diagrama com a descrição visual dos componentes e áreas de atuação de cada engenharia:
-https://raw.githubusercontent.com/durvalcarvalho/smart-aquarium/main/aquario.png
 
+Link: https://raw.githubusercontent.com/durvalcarvalho/smart-aquarium/main/aquario.png
+
+![image](https://user-images.githubusercontent.com/31013187/200432958-80dcf7a5-4932-4858-b670-5d52919f5492.png)
 
 
 ### Descrição sucinta de atividades em sistemas mecânicos (Eng. Automotiva e Eng. Aeroespacial)
