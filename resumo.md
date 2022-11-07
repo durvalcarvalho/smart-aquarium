@@ -39,7 +39,7 @@ Link: https://raw.githubusercontent.com/durvalcarvalho/smart-aquarium/main/aquar
 Projetar o tanque de vidro do aquário que deve ter aproxidamente 100L.
 Projetar a estrutura metálica que irá dar sustentação ao tanque de vidro
 Projetar um elevador na estrutura metálica que permita que o aquário suba e desça, permitindo assim que o acesso a parte superior do aquário seja facilitada.
-Projetar uma tampa retrátil elétrica, parecida com um toldo toldo retrátil, que permita o acesso ao aquário.
+Projetar uma tampa retrátil elétrica, parecida com um toldo retrátil, que permita o acesso ao aquário.
 
 ### Descrição sucinta de atividades em sistemas eletrônicos (Eng. Eletrônica)
 
