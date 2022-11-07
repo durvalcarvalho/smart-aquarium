@@ -36,21 +36,21 @@ Link: https://raw.githubusercontent.com/durvalcarvalho/smart-aquarium/main/aquar
 
 ### Descrição sucinta de atividades em sistemas mecânicos (Eng. Automotiva e Eng. Aeroespacial)
 
-Projetar o tanque de vidro do aquário que deve ter aproxidamente 100L.
-Projetar a estrutura metálica que irá dar sustentação ao tanque de vidro
-Projetar um elevador na estrutura metálica que permita que o aquário suba e desça, permitindo assim que o acesso a parte superior do aquário seja facilitada.
-Projetar uma tampa retrátil elétrica, parecida com um toldo retrátil, que permita o acesso ao aquário.
+* Projetar o tanque de vidro do aquário que deve ter aproxidamente 100L.
+* Projetar a estrutura metálica que irá dar sustentação ao tanque de vidro
+* Projetar um elevador na estrutura metálica que permita que o aquário suba e desça, permitindo assim que o acesso a parte superior do aquário seja facilitada.
+* Projetar uma tampa retrátil elétrica, parecida com um toldo retrátil, que permita o acesso ao aquário.
 
 ### Descrição sucinta de atividades em sistemas eletrônicos (Eng. Eletrônica)
 
-Projetar os diversos sensores que irão realizar as medições
-Projetar a central de controle dos diversos sensores
+* Projetar os diversos sensores que irão realizar as medições
+* Projetar a central de controle dos diversos sensores
 
 
 ### Descrição sucinta de atividades em sistemas de energia (Eng. de Energia)
 
-Projetar o filtro que irá limpar o aquário
-Projetar como o sistema será energizado, se irá precisar de uma bateria em caso de falta de energia, dimessionar quanto de energia o sistema irá consumir.
+* Projetar o filtro que irá limpar o aquário
+* Projetar como o sistema será energizado, se irá precisar de uma bateria em caso de falta de energia, dimessionar quanto de energia o sistema irá consumir.
 
 ### Descrição sucinta de atividades de software (Eng. de Software)
 
